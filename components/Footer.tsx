@@ -38,6 +38,13 @@ export default function Footer() {
               Ce site est financé par <span className="text-white">CHRISTOPHER DAVID CHAPMAN</span> (Nouvelle-Zélande). L&apos;annonceur prend en charge les coûts publicitaires de Platforms Monitor et ne possède aucune autre organisation. Platforms Monitor ne diffuse aucune publicité à caractère politique au sein de l&apos;Union Européenne.
             </p>
 
+            <h4 className="text-white font-black uppercase tracking-[0.2em] mb-8 mt-12 text-[11px] flex items-center gap-2">
+              <span className="w-4 h-[1px] bg-primary" /> CONFORMITÉ RÉGLEMENTAIRE
+            </h4>
+            <p className="text-gray-500 text-[10px] leading-loose font-bold tracking-widest uppercase">
+              TOUS LES LIENS SORTANTS SUR CE SITE MÈNENT EXCLUSIVEMENT À DES OPÉRATEURS DE JEUX AGRÉÉS ET AUTORISÉS PAR L&apos;ANJ (AUTORITÉ NATIONALE DES JEUX).
+            </p>
+
             <div className="flex items-center gap-2 mt-6">
               <span className="w-1.5 h-1.5 rounded-full bg-primary" />
               <span className="text-primary text-[10px] font-black uppercase tracking-widest">Contenu Publicitaire</span>
