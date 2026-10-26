@@ -1,0 +1,37 @@
+{"timestamp":"00:00:02.235","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:04.796","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:04.854","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Debug mode is enabled by default in development. No requests will be sent to the server."}
+{"timestamp":"00:00:04.854","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Running queued event pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:00:04.854","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Running queued event pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:00:04.854","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] [view] http://localhost:3000/ {\"dp\":\"/\",\"o\":\"http://localhost:3000/\",\"r\":\"\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"2.0.1\",\"sv\":\"0.1.3\",\"ts\":1792997044447} /_vercel/insights/view"}
+{"timestamp":"00:00:04.854","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] [view] http://localhost:3000/ {\"dp\":\"/\",\"o\":\"http://localhost:3000/\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"2.0.1\",\"sv\":\"0.1.3\",\"ts\":1792997044447} /_vercel/insights/view"}
+{"timestamp":"00:03:53.464","source":"Server","level":"LOG","message":"✓ Compiled in 154ms"}
+{"timestamp":"00:03:57.043","source":"Server","level":"LOG","message":"✓ Compiled in 106ms"}
+{"timestamp":"00:04:03.945","source":"Server","level":"LOG","message":"✓ Compiled in 38ms"}
+{"timestamp":"00:04:48.716","source":"Server","level":"LOG","message":"✓ Compiled in 35ms"}
+{"timestamp":"00:04:49.225","source":"Server","level":"LOG","message":"✓ Compiled in 29ms"}
+{"timestamp":"00:04:49.601","source":"Server","level":"LOG","message":"✓ Compiled in 15ms"}
+{"timestamp":"00:04:49.836","source":"Server","level":"LOG","message":"✓ Compiled in 13ms"}
+{"timestamp":"00:04:50.089","source":"Server","level":"LOG","message":"✓ Compiled in 23ms"}
+{"timestamp":"00:05:00.647","source":"Server","level":"LOG","message":"✓ Compiled in 26ms"}
+{"timestamp":"00:05:12.496","source":"Server","level":"LOG","message":"✓ Compiled in 29ms"}
+{"timestamp":"00:05:45.772","source":"Server","level":"LOG","message":"✓ Compiled in 49ms"}
+{"timestamp":"00:05:51.675","source":"Server","level":"LOG","message":"✓ Compiled in 27ms"}
+{"timestamp":"00:06:30.817","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:06:30.845","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Debug mode is enabled by default in development. No requests will be sent to the server."}
+{"timestamp":"00:06:30.845","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Running queued event pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:06:30.845","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Running queued event pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:06:30.845","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] [view] http://localhost:3000/ {\"dp\":\"/\",\"o\":\"http://localhost:3000/\",\"r\":\"\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"2.0.1\",\"sv\":\"0.1.3\",\"ts\":1792997430434} /_vercel/insights/view"}
+{"timestamp":"00:06:30.845","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] [view] http://localhost:3000/ {\"dp\":\"/\",\"o\":\"http://localhost:3000/\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"2.0.1\",\"sv\":\"0.1.3\",\"ts\":1792997430434} /_vercel/insights/view"}
+{"timestamp":"00:07:17.574","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:07:17.599","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Debug mode is enabled by default in development. No requests will be sent to the server."}
+{"timestamp":"00:07:17.599","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Running queued event pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:07:17.599","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Running queued event pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:07:17.599","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] [view] http://localhost:3000/ {\"dp\":\"/\",\"o\":\"http://localhost:3000/\",\"r\":\"\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"2.0.1\",\"sv\":\"0.1.3\",\"ts\":1792997477186} /_vercel/insights/view"}
+{"timestamp":"00:07:17.599","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] [view] http://localhost:3000/ {\"dp\":\"/\",\"o\":\"http://localhost:3000/\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"2.0.1\",\"sv\":\"0.1.3\",\"ts\":1792997477186} /_vercel/insights/view"}
+{"timestamp":"00:07:52.578","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:07:52.604","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Debug mode is enabled by default in development. No requests will be sent to the server."}
+{"timestamp":"00:07:52.604","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Running queued event pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:07:52.604","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Running queued event pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:07:52.604","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] [view] http://localhost:3000/ {\"dp\":\"/\",\"o\":\"http://localhost:3000/\",\"r\":\"\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"2.0.1\",\"sv\":\"0.1.3\",\"ts\":1792997512190} /_vercel/insights/view"}
+{"timestamp":"00:07:52.604","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] [view] http://localhost:3000/ {\"dp\":\"/\",\"o\":\"http://localhost:3000/\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"2.0.1\",\"sv\":\"0.1.3\",\"ts\":1792997512190} /_vercel/insights/view"}
