@@ -32,16 +32,10 @@ export default function MobilePopup({ gclid }: MobilePopupProps) {
 
   return (
     <div 
-      className="fixed inset-0 z-[100] overflow-y-auto animate-in fade-in duration-500"
+      className="fixed inset-0 z-[100] overflow-y-auto animate-in fade-in duration-500 main-bg"
       role="dialog"
       aria-modal="true"
       aria-labelledby="modal-title"
-      style={{
-        backgroundImage: "linear-gradient(rgba(10, 10, 10, 0.6), rgba(10, 10, 10, 0.6)), url('/platforms-monitor-bg.jpg')",
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
-        backgroundAttachment: 'fixed'
-      }}
     >
       <div className="min-h-screen flex flex-col bg-black/40 backdrop-blur-[1px]">
         {/* Modal Header */}

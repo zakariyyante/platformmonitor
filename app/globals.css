@@ -122,6 +122,21 @@ body {
     linear-gradient(to right, rgba(255, 77, 77, 0.03) 0%, rgba(255, 77, 77, 0.03) 33.33%, rgba(255, 255, 255, 0.02) 33.33%, rgba(255, 255, 255, 0.02) 66.66%, rgba(50, 205, 50, 0.03) 66.66%, rgba(50, 205, 50, 0.03) 100%);
 }
 
+.main-bg {
+  background-image: linear-gradient(rgba(10, 10, 10, 0.6), rgba(10, 10, 10, 0.6)), url('/platforms-monitor-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 768px) {
+  .main-bg {
+    background-image: linear-gradient(rgba(10, 10, 10, 0.7), rgba(10, 10, 10, 0.7)), url('/platforms-monitor-bg-mobile.jpg');
+    background-attachment: scroll; /* Fixed is buggy on mobile */
+  }
+}
+
+
 @keyframes marquee {
   0% { transform: translateX(0); }
   100% { transform: translateX(-50%); }

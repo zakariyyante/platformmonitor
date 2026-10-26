@@ -21,17 +21,8 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <body className="antialiased relative">
-        {/* Fixed Background Image */}
-        <div 
-          className="fixed inset-0 -z-20 w-full h-full"
-          style={{
-            backgroundImage: "linear-gradient(rgba(10, 10, 10, 0.6), rgba(10, 10, 10, 0.6)), url('/platforms-monitor-bg.jpg')",
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
-            backgroundAttachment: 'fixed',
-            backgroundRepeat: 'no-repeat'
-          }}
-        />
+        {/* Background Image Container */}
+        <div className="fixed inset-0 -z-20 w-full h-full main-bg" />
         {/* Google Tag */}
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
