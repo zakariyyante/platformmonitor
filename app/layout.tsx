@@ -3,7 +3,7 @@ import { Analytics } from "@vercel/analytics/next";
 import Script from "next/script";
 import "./globals.css";
 
-const GA_MEASUREMENT_ID = "AW-18359108026";
+const GA_MEASUREMENT_ID = "AW-18528635092";
 
 export const metadata: Metadata = {
   title: "Platforms Monitor - Les Meilleurs Sites de Jeux en France",
