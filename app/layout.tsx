@@ -34,6 +34,13 @@ export default function RootLayout({
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', '${GA_MEASUREMENT_ID}');
+
+            // Page view conversion
+            gtag('event', 'conversion', {
+              'send_to': '${GA_MEASUREMENT_ID}/MCIXCPjb5a0dENSRkoNF',
+              'value': 1.0,
+              'currency': 'USD'
+            });
             
             function gtag_report_conversion(url) {
               var callback = function () {
@@ -42,7 +49,7 @@ export default function RootLayout({
                 }
               };
               gtag('event', 'conversion', {
-                'send_to': '${GA_MEASUREMENT_ID}/gecmCKbt--AcELqDp7JE',
+                'send_to': '${GA_MEASUREMENT_ID}/MCIXCPjb5a0dENSRkoNF',
                 'value': 1.0,
                 'currency': 'USD',
                 'event_callback': callback
